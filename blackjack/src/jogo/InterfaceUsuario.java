@@ -86,7 +86,7 @@ public class InterfaceUsuario {
 		return opcaoEscolhida;
 	}
 	// IMPRIMIR RESULTADO DA ULTIMA PARTIDA JOGADA
-	public void resultadoPartida(Partida p, ArrayList<Jogador> j, Baralho b) {
+	public void resultadoPartida(ArrayList<Jogador> j) {
 		System.out.println("\n==== RESULTADO DA PARTIDA ====");
 		for(int i=0; i<j.size(); i++) {
 			System.out.println("______________________________\n");

@@ -21,9 +21,9 @@ public class Validacao{
 		}
 		if(soma > 21) {
 			iu.msgEstorou(jogador);
-			return false;
+			return true;
 		}
-		return true;
+		return false;
 	}
 
 }

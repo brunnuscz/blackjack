@@ -4,6 +4,7 @@ public class Carta {
 	String nome;
 	String naipe;
 	int valor;
+	// Valete Copa 11
 	// CONSTRUTOR
 	Carta(String nomeC, String naipeC, int valorC){
 		this.nome = nomeC;

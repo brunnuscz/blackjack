@@ -18,7 +18,7 @@ public class Jogo {
 		iu.listarJogador(jogadores);
 		partida.iniciarNovaPartida(baralho,jogadores);
 		partidas.add(partida);
-		iu.resultadoPartida(partida, jogadores, baralho);
+		iu.resultadoPartida(jogadores);
 		iu.menu();
 	}
 	// MÉTODO QUE ADICIONAR JOGADOR NA LISTA

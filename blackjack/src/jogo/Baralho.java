@@ -36,9 +36,9 @@ public class Baralho {
 			inserirCartas(new Carta("8", naipe, 8));
 			inserirCartas(new Carta("9", naipe, 9));
 			inserirCartas(new Carta("10", naipe, 10));
-			inserirCartas(new Carta("J", naipe, 11));
-			inserirCartas(new Carta("Q", naipe, 12));
-			inserirCartas(new Carta("K", naipe, 13));
+			inserirCartas(new Carta("J", naipe, 10));
+			inserirCartas(new Carta("Q", naipe, 10));
+			inserirCartas(new Carta("K", naipe, 10));
 		}
 	}
 	// METÓDO QUE INSERI AS ARTAS
