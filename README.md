@@ -30,5 +30,5 @@ O objetivo com este projeto é fazer o jogo Blackjack conhecido também como 21,
 ## 🚩 Prévia
 <span>
     <img src="previa-1.png" width="300">
-    <img src="previa-2.png" width="300">
+    <img src="previa-2.png" width="311">
 </span>
