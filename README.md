@@ -12,7 +12,7 @@ O objetivo com este projeto é fazer o jogo Blackjack conhecido também como 21,
     b) Deve ser possível jogar várias partidas.
     c) Ao término de um partida deve-se exibir o resultado do jogo;
     d) Deve ser possível decidir por continuar jogando ou encerrar o jogo.
-    e) Após o encerramento do jogo, deve ser apresentado o histórico do jogo com os empates, derretoas, quem venceu, quem perdeu e as pontuações.
+    e) Após o encerramento do jogo, deve ser apresentado os resultadso do jogo no geral.
 
 ## 📁 Projeto
 ### 📍 Fazendo o clone do repositório:
